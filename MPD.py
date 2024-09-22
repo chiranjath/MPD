@@ -7,7 +7,7 @@ import glob
 
 def tool():
     config = {
-        "apiKey": "AIzaSyBJsnBXhodczgkiuvpOaIDOh4WDUF6tN-E",
+        "apiKey": "",
         "authDomain": "mpi-system.firebaseapp.com",
         "databaseURL": "https://mpi-system-default-rtdb.firebaseio.com",
         "projectId": "mpi-system",
